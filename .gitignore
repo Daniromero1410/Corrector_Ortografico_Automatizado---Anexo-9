@@ -1,0 +1,89 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDEs
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+*.iws
+*.ipr
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos de datos Excel (para evitar subir archivos con datos sensibles)
+*.xlsx
+*.xlsm
+*.xlsb
+*.xls
+*.csv
+
+# Excepciones: archivos de ejemplo
+!ejemplos/input/*.xlsx
+!ejemplos/output/*.xlsx
+
+# Logs y archivos temporales
+*.log
+logs/
+*.log.*
+temp/
+tmp/
+*.tmp
+
+# LanguageTool cache
+.cache/
+*.cache
+
+# Archivos de salida generados
+*_corregido_*.xlsx
+log_correcciones_*.csv
+
+# Archivos de respaldo
+*.bak
+*.backup
+*.orig
+*.rej
