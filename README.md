@@ -1,7 +1,6 @@
 # Corrector Ortográfico Automatizado - Anexo 9 Indicadores
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production-success.svg)]()
 
 Sistema automatizado de corrección ortográfica y gramatical para documentos Excel de indicadores de salud, desarrollado para POSITIVA Compañía de Seguros.
